@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/az4001510/AgileProject/_apis/build/status%2F400raja.new_app400?branchName=master)](https://dev.azure.com/az4001510/AgileProject/_build/latest?definitionId=4&branchName=master)
